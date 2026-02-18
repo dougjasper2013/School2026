@@ -45,7 +45,7 @@
 
         </table>
 
-        <a class="button" href="enroll.php">Enroll a Student</a>
+        <a class="button" href="enroll_form.php">Enroll a Student</a>
 
     </body>
 </html>
